@@ -1,6 +1,5 @@
-## Project title
-#Color-Game -
-Basic Color Guessing Game Web Application
+## Simple Color Guessing Game
+#Basic Color Guessing Game Web Application
 
 ## Motivation
 I made this project while I was learning VanillaJS, and I succeeded in doing so, the web-application is awesome and the code is as "dry" as I could make it.
