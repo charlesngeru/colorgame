@@ -1,7 +1,7 @@
 ## Simple Color Guessing Game
 #Basic Color Guessing Game Web Application
-Live Demo - https://charlesngeru.github.io/colorgame/
-
+Live Demo - https://charlesngeru.github.io/colorgame/ && rgbacolorgame.netlify.com
+ 
 ## Motivation
 I made this project while I was learning VanillaJS, and I succeeded in doing so, the web-application is awesome and the code is as "dry" as I could make it.
 
