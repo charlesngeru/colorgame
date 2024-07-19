@@ -1,5 +1,5 @@
 ## Simple Color Guessing Game
-#Basic Color Guessing Game Web Application
+Basic Color Guessing Game Web Application
 Live Demo - https://charlesngeru.github.io/colorgame/
  
 ## Motivation
